@@ -44,6 +44,8 @@ $ git add README.md file
 $ git commit -m "read me file"
 $ git push origin main
 
+click on readme file , issue,new issue,copy img , paste img in readme file 
+
  2- to delete tag
 $ git tag -d v1.0 (local)
 $git push origin --delete v1.0 (global)
